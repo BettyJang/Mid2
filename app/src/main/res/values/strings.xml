@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Mid2</string>
+    <string name="title_activity_func1">Func1Activity</string>
+    <string name="title_activity_func2">Func2Activity</string>
+    <string name="title_activity_func3">Func3Activity</string>
+    <string name="title_activity_func4">Func4Activity</string>
+    <string name="title_activity_func5">Func5Activity</string>
+    <string name="title_activity_func6">Func6Activity</string>
+    <string name="title_activity_func7">Func7Activity</string>
+    <string name="title_activity_func8">Func8Activity</string>
 </resources>
